@@ -1,0 +1,22 @@
+{
+    "default_model": "yolo12n",
+    "default_batch_size": 16,
+    "default_img_size": 640,
+    "default_conf_thresh": 0.25,
+    "default_iou_thresh": 0.45,
+    "use_gpu": true,
+    "gpu_device": 0,
+    "default_train_dir": "D:/BaiduNetdiskDownload/spotgarbagegini/v1/fe617ca37af82c823449554ee7804065/spotgarbage-GINI-master/spotgarbage-GINI-master/yolo_dataset/images/train",
+    "default_val_dir": "D:/BaiduNetdiskDownload/spotgarbagegini/v1/fe617ca37af82c823449554ee7804065/spotgarbage-GINI-master/spotgarbage-GINI-master/yolo_dataset/images/val",
+    "default_test_dir": "D:/BaiduNetdiskDownload/spotgarbagegini/v1/fe617ca37af82c823449554ee7804065/spotgarbage-GINI-master/spotgarbage-GINI-master/yolo_dataset/images/val",
+    "default_output_dir": "D:/YOLO_UI/output",
+    "default_train_model_path": "D:/YOLO_UI/yolo12n.pt",
+    "default_test_model_path": "D:/YOLO_UI/yolo_project/20250507-144157/weights/best.pt",
+    "theme": "tech",
+    "default_train_images_dir": "D:/lyq/trainCode/train/images",
+    "default_train_labels_dir": "D:/lyq/trainCode/train/labels",
+    "default_val_images_dir": "D:/lyq/trainCode/val/images",
+    "default_val_labels_dir": "D:/lyq/trainCode/val/labels",
+    "default_test_images_dir": "D:/lyq/trainCode/train/images",
+    "default_test_labels_dir": "D:/lyq/trainCode/val/labels"
+}

@@ -1,4 +1,4 @@
-![89871482286e06f07fecea0ed8a4773](https://github.com/user-attachments/assets/db911e07-deca-48fa-bd5a-d0cf047dcac3)# 🔍 YOLO目标检测训练与测试工具
+# 🔍 YOLO目标检测训练与测试工具
 
 <div align="center">
 

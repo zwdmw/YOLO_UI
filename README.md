@@ -150,6 +150,7 @@ python start_with_tech_theme.py
 6. 点击"验证数据"确保数据集格式正确
 7. 点击"开始训练"启动训练过程
 8. 训练日志和进度将实时显示
+![37c2bda5de953af99fdebe79e03bb25](https://github.com/user-attachments/assets/77609d7f-8a37-4b71-952d-765484fcdeea)
 
 </details>
 
@@ -163,6 +164,7 @@ python start_with_tech_theme.py
 5. 设置输出目录
 6. 点击"开始测试"进行模型评估
 7. 测试结果将显示在右侧预览区域和日志中
+![fc5320e28d3f4f9cb10ad9da6a910b4](https://github.com/user-attachments/assets/8fe51cab-90dc-45f1-b2ff-edc623b99731)
 
 </details>
 
@@ -177,6 +179,7 @@ python start_with_tech_theme.py
 6. 点击"开始推理"进行目标检测
 7. 结果图像将显示在预览区域
 8. 使用图像浏览器查看所有结果
+![89871482286e06f07fecea0ed8a4773](https://github.com/user-attachments/assets/f2fcc580-31ed-47eb-826a-bdfebbb32eaf)
 
 </details>
 
@@ -188,6 +191,7 @@ python start_with_tech_theme.py
 3. 选择转换模式
 4. 设置输入和输出路径
 5. 点击"开始转换"将数据集转换为YOLO格式
+![1a956e0736850c6f17fdf5cb9170c05](https://github.com/user-attachments/assets/24d42af1-2e19-4b85-9eba-a1823e312945)
 
 </details>
 
